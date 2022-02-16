@@ -1,6 +1,5 @@
 //
 //  ContentView.swift
-//  GuessTheFlag
 //
 //  Created by Barış Bulgan on 16.02.2022.
 //
